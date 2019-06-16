@@ -1,0 +1,15 @@
+{
+  "firstName": "Franz",
+  "lastName": "schubert",
+  "locatioin": {
+    "city": "LosAngle",
+    "street": [
+      "Number 5",
+      "Number 4",
+      "Number 2",
+      "Number 2"
+    ]
+  },
+  "hasMarriged": false,
+  "tall": true
+}
